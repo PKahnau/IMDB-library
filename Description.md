@@ -1,5 +1,5 @@
 # IMDB-library
-Short programme that interacts with actor and movie names from .txt file to return various options for outputs
+Short programme that interacts with actor and movie names from a text file to return outputs
 
 Code Language: Python
 
@@ -22,7 +22,7 @@ Philipp Kahnau
 
 ## Content
 
-The code works with a text(.txt) file which contains movie names along with the actors that star in it. There is an example file in the repository with a limited selection of movies. Via the IMDB database other text files can be downloaded which provide a more extensive selection of movies.
+The code works with a text(.txt) file which contains movie names along with the actors that star in it. There is an example file in the repository with a limited selection of movies (movies.txt). Via the IMDB database other text files can be downloaded which provide a more extensive selection of movies.
 The program aids as a search tool which incrorporates for 2 main functions:
 
 Function 1 lets the user choose two movies and is presented with 3 potential outputs
