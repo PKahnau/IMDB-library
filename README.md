@@ -38,8 +38,11 @@ The program comes with an interface with 2 main sections. The first section serv
 
 ## Repository
 
-
-
+* README file which contains a programe description and instructions
+* movie.txt file as an example for a text file required by this programe
+* Interface manual consisting of a screenshot with descriptive text
+* Code as a JUPYTER file
+* Code as a PYTHON file
 
 ## Requirements
 The following programs were used for the project: 
