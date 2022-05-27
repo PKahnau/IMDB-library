@@ -46,7 +46,7 @@ The program comes with an interface with 2 main sections. The first section serv
 
 ## Requirements
 The following programs were used for the project: 
-* Python 3.9 
+* Python 3.10
 * Jupyter Notebook and VS Code (visual studio code)
 
 The following packages are required for the program: 
